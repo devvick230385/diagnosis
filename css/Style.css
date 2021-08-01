@@ -1,0 +1,32 @@
+#symp{ 
+    text-align: center
+}
+
+#Login{
+    margin-top: 15%;
+}
+
+.home{
+    height: 100vh;
+}
+
+.nav{
+    background-color: darkcyan;
+    height: 100px;
+    color: whitesmoke;
+    padding: 15px;
+}
+
+.home_nav{
+    padding-left: 20px;
+}
+body{
+    background-color: darkcyan; 
+    margin-top: 0%;
+}
+#note{
+color: whitesmoke; 
+}
+#Login{
+    margin-top: 15%;
+}
